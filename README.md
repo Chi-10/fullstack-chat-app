@@ -8,9 +8,9 @@ This is a full-stack chat application built using the MERN stack (MongoDB, Expre
 - User Online Status: Displays real-time status (online/offline) of users.
 
 **Tech Stack:**
--MongoDB: Database for storing user data and messages.
--Express: Backend framework to handle routes and API requests.
--React: Frontend library for building the user interface and managing chat interactions.
--Node.js: Server-side runtime for handling the backend logic.
--Socket.io: Real-time communication library for enabling live chat functionality.
--JWT (JSON Web Tokens): Secure token-based authentication for managing user sessions.
+- MongoDB: Database for storing user data and messages.
+- Express: Backend framework to handle routes and API requests.
+- React: Frontend library for building the user interface and managing chat interactions.
+- Node.js: Server-side runtime for handling the backend logic.
+- Socket.io: Real-time communication library for enabling live chat functionality.
+- JWT (JSON Web Tokens): Secure token-based authentication for managing user sessions.
